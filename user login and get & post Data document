@@ -13,3 +13,9 @@ get method: get get info from db
 post method: post info from client to db
 put method / patch method: update or edit info 
 delete method: delete info from db
+
+
+-----------------------------
+users: -> 1. user.contoller.js
+          2. user.model.js
+          3. user.route.js
